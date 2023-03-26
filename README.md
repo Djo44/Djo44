@@ -13,16 +13,13 @@ In summary, my expertise in web development, strong collaboration skills, and co
 
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammad-adeel-9ba19951/](https://www.linkedin.com/in/djordje-44/))
-[![Twitter](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-adeel-91)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5650328/adeel)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/muhammad-adeel-9ba19951/](https://www.linkedin.com/in/djordje-44/)](https://www.linkedin.com/in/djordje-44/))
 
-## Skills
+
+## Skills 🛠️
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
@@ -36,7 +33,7 @@ In summary, my expertise in web development, strong collaboration skills, and co
 
 
 
-## Stats 📊
+## Stats 📈
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Djo44&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djo44&hide=TeX&layout=compact&theme=prussian)
