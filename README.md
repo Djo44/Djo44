@@ -37,7 +37,7 @@ I'm Djordje, a front-end engineer who loves creating stunning and user-friendly 
  </div>
     
   
-<div style="display: flex; align-items:center; justify-content:center">
+<div style="display: flex; align-items:center; justify-content:center; text-align: center;">
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
