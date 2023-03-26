@@ -64,6 +64,34 @@ I'm Djordje, a front-end engineer who loves creating stunning and user-friendly 
 
 
 
+##
+<br/>
+
+
+<div align="center">
+  <h3>Some of my projects 🎯</h3>
+   <br/>
+ 
+  [http://activityquote.houseofinsurtech.com/](http://activityquote.houseofinsurtech.com/)
+   
+[http://activityadmin.houseofinsurtech.com/](http://activityadmin.houseofinsurtech.com/)
+   
+[http://medmaladmin.houseofinsurtech.com/](http://medmaladmin.houseofinsurtech.com/)
+   
+[https://rustdoublechance.netlify.app/](https://rustdoublechance.netlify.app/)
+   
+ [https://redesignsolana.netlify.app/](https://redesignsolana.netlify.app/)
+   
+</div>
+
+
+
+
+
+
+
+
+
 
 ##
 <br/>
