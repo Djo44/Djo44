@@ -78,5 +78,13 @@ I'm Djordje, a front-end engineer who loves creating stunning and user-friendly 
 </div>
 
   
+##
+<br/>
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31aseyqjsckooutlb6lrx4xfdzpm&redirect=true">
+    <img alt="spotify-github-profile" src="https://spotify-github-profile.vercel.app/api/view?uid=31aseyqjsckooutlb6lrx4xfdzpm&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</div>
 
                                
