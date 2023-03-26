@@ -38,4 +38,6 @@ In summary, my expertise in web development, strong collaboration skills, and co
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Djo44&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djo44&hide=TeX&layout=compact&theme=prussian)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Djo44)](https://git.io/streak-stats)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Djo44.Djo44)
