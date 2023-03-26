@@ -12,8 +12,13 @@ With a track record of successfully collaborating with cross-functional teams to
 In summary, my expertise in web development, strong collaboration skills, and commitment to delivering exceptional results make me a valuable asset to any team. I am eager to take on new challenges and continue to expand my knowledge and expertise in the field.
 
 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/muhammad-adeel-9ba19951/](https://www.linkedin.com/in/djordje-44/)](https://www.linkedin.com/in/djordje-44/))
+<div align="center">
+<h3>Where to find me</h3>
+<p>
+   <a href="https://github.com/Djo44" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/DordeD" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/djordje-44" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  
+</p>
+   </div>
 
 
 ## Skills 🛠️
@@ -33,10 +38,15 @@ In summary, my expertise in web development, strong collaboration skills, and co
 
 
 
-## Stats 📈
+##
 
 
+   <div align="center">
+    <h3>My GitHub Streak Stats</h3>
+    <br>
+    <img src="https://streak-stats.demolab.com?user=Djo44&theme=react&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
 
-   [![GitHub Streak](https://streak-stats.demolab.com?user=Djo44&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
 
                                
