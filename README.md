@@ -50,6 +50,7 @@ I'm Djordje, a front-end engineer who loves creating stunning and user-friendly 
 <img align="left" alt="npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="REST API" width="26px" src="https://www.svgrepo.com/show/375531/api.svg" style="padding-right:10px;" />
 <img align="left" alt="Material UI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="JIRA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Swagger" width="26px" src="https://www.svgrepo.com/show/374111/swagger.svg" style="padding-right:10px;" />
 <img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" />
