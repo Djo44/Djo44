@@ -37,26 +37,28 @@ I'm Djordje, a front-end engineer who loves creating stunning and user-friendly 
  </div>
     
   
-<div align="center">
+<div style="display: flex; align-items:center; justify-content:center">
 <a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /></a>
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/3d-fluency/256/github.png" style="padding-right:10px;" />
-<img align="left" alt="Tailwind CSS" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" />
-<img align="left" alt="npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="REST API" width="26px" src="https://www.svgrepo.com/show/375531/api.svg" style="padding-right:10px;" />
-<img align="left" alt="Material UI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="JIRA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /></a>
+<a href="https://reactjs.org/"><img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /></a>
+<a href="https://www.mysql.com/"><img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a>
+<a href="https://github.com/"><img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/3d-fluency/256/github.png" style="padding-right:10px;" /></a>
+<a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" width="26px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10px;" /></a>
+<a href="https://www.npmjs.com/"><img align="left" alt="npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" /></a>
+<a href="https://en.wikipedia.org/wiki/Representational_state_transfer"><img align="left" alt="REST API" width="26px" src="https://www.svgrepo.com/show/375531/api.svg" style="padding-right:10px;" /></a>
+<a href="https://mui.com/"><img align="left" alt="Material UI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" /></a>
+<a href="https://firebase.google.com/"><img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" /></a>
+
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img align="left" alt="JIRA" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" /></a>
 <img align="left" alt="Swagger" width="26px" src="https://www.svgrepo.com/show/374111/swagger.svg" style="padding-right:10px;" />
-<img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" />
+<a href="https://www.postman.com" target="_blank"><img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" /></a>
 <img align="left" alt="Axios" width="26px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" style="padding-right:10px;" />
-<img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
+<a href="https://wordpress.com" target="_blank"><img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" /></a>
+
 </div>
 <br/>
 
