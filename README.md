@@ -1,16 +1,10 @@
-### Hi there 👋
+<div align="center">
+   <h3>Hi there 👋</h3>
+   <br/>
+    </div>
 
-
-I am Djordje Djordjevic, a **Frontend Engineer** 
-
-As a highly motivated and dedicated web developer, I am passionate about continuously expanding my skillset and seeking new challenges to grow both personally and professionally. With a strong background in team collaboration and independent problem-solving, I am well-equipped to handle any technical challenges that come my way.
-
-My extensive experience providing expert technical support and delivering innovative solutions has allowed me to excel in fast-paced, high-pressure environments. I am proud of my ability to effectively assist clients and colleagues in resolving complex technical issues, leveraging my exceptional communication skills and in-depth technical knowledge to deliver exceptional results.
-
-With a track record of successfully collaborating with cross-functional teams to deliver innovative solutions that exceed client expectations, I am confident in my ability to drive the success of any project. I am passionate about staying up-to-date with the latest trends and best practices in web development, and I am always eager to learn and grow my skillset.
-
-In summary, my expertise in web development, strong collaboration skills, and commitment to delivering exceptional results make me a valuable asset to any team. I am eager to take on new challenges and continue to expand my knowledge and expertise in the field.
-
+I'm Djordje, a front-end engineer who loves creating stunning and user-friendly websites. I have a strong background in web development, with a passion for continuous learning and expanding my skillset. I'm highly motivated, dedicated, and always eager to collaborate with cross-functional teams to deliver innovative solutions that exceed client expectations. With my technical expertise and commitment to delivering exceptional results, I'm confident that I can be a valuable asset to any team.
+##
 
 <div align="center">
 <h3>Where to find me</h3>
