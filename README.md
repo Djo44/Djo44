@@ -58,6 +58,8 @@ I'm Djordje, a front-end engineer who loves creating stunning and user-friendly 
 <a href="https://www.postman.com" target="_blank"><img align="left" alt="Postman" width="26px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;" /></a>
 <img align="left" alt="Axios" width="26px" src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" style="padding-right:10px;" />
 <a href="https://wordpress.com" target="_blank"><img align="left" alt="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" /></a>
+   <a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right:10px;" /></a>
+<a href="https://vitejs.dev/" target="_blank"><img align="left" alt="Vite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" style="padding-right:10px;" /></a>
 
 </div>
 <br/>
