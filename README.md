@@ -73,7 +73,9 @@ I'm Djordje, a front-end engineer who loves creating stunning and user-friendly 
 <div align="center">
   <h3>Some of my projects 🎯</h3>
    <br/>
-https://ultimate-guide.netlify.app/ 
+
+   
+   [https://ultimate-guide.netlify.app/ ](https://ultimate-guide.netlify.app/ )
 
   [http://activityquote.houseofinsurtech.com/](http://activityquote.houseofinsurtech.com/)
    
