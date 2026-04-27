@@ -32,7 +32,6 @@
 ```typescript
 const djordje = {
   role: "Frontend Web Developer",
-  experience: "4+ years",
   location: "Serbia 🇷🇸",
   core: ["React.js", "TypeScript", "Material UI"],
   architecture: ["Feature-based", "Monorepo (Turborepo)", "RBAC", "Reusable Component Libraries"],
@@ -47,7 +46,7 @@ const djordje = {
 ## 💼 Experience
 
 ### Frontend Web Developer · Full-time
-**Jan 2025 – Present · 1 yr 4 mos**
+
 
 - 🎨 **UI/UX** — Translated wireframes into responsive, pixel-perfect, accessible interfaces
 - ⚛️ **React & TypeScript** — Built and maintained enterprise-grade apps with reusable component libraries
